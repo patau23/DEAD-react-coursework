@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-the server side of the application is located on the following repository: (https://github.com/patau23/django-coursework.git)
+the server side of the application is located on the following repository - [django-coursework](https://github.com/patau23/django-coursework.git)
 
 ## Available Scripts
 
